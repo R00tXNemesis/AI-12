@@ -17,8 +17,9 @@ Alat ini menghasilkan **file PDF kecil** yang tampak biasa, tetapi saat dibuka d
 
 ## 📌 Cara Install & Menjalankan di Termux  
 
-1️⃣ Install Python & Paket Pendukung  
 ```bash
+1️⃣ Install Python & Paket Pendukung
+
 pkg update && pkg upgrade -y
 pkg install python -y
 pkg install git -y
